@@ -1,0 +1,12 @@
+password.js
+
+console.log("Welcome to the Password Validator!
+Please enter your password.")
+
+var password = "Answer:"
+console.log("${str.length}")
+if (password < Answer) {
+    console.log("Not quite long enough for a password!")
+} else {
+    console.log("Congrats, you've hacked the mainframe!")
+}
